@@ -1,3 +1,8 @@
+TinyWL with the following changes:
+  1.  Use Win (logo) key instead of Alt
+  2.  Use Win-Tab to switch applications
+  3.  Make apps fullscreen (1920,1080) instead of default size
+
 # TinyWL
 
 This is the "minimum viable product" Wayland compositor based on wlroots. It
